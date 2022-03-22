@@ -1,5 +1,7 @@
 这里是《Textile defect detection algorithm based on unsupervised learning》的开源代码仓库
 
+由于训练集较大，这里只提供源数据集下载地址：[DAGM]()
+
 
 
 
